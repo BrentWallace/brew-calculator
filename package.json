@@ -1,0 +1,14 @@
+{
+	"name": "brew_calculator",
+	"version": "1.0.0",
+	"description": "A set of calculators to help brew better beer!",
+	"author": "Brent Wallace <brentdavidwallace@gmail.com>",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"package.json": "^2.0.1"
+	}
+}
